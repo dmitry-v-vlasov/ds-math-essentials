@@ -1,1 +1,3 @@
-# ds-math-essentials
+# Математика и Статистика для Data Science
+
+Поток MAT-38
